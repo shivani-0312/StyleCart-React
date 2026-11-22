@@ -40,9 +40,7 @@ StyleCart is a React-based e-commerce shopping interface created as a learning a
    npm run dev
    ```
 
-## Learning Acknowledgement
 
-This project is based on a project shared by a friend, with permission. It is uploaded for learning and reference purposes. Credit goes to the original project creator.
 
 ## Author
 Shivani Kyasa
