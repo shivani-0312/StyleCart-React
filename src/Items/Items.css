@@ -1,0 +1,29 @@
+.items{
+    overflow:hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 44px;
+    width: 80%; 
+    transition:0.3s;                                      
+    
+}
+.items img{
+    padding-top: 80px;
+    height: 350px;
+    width: 225px;
+    object-fit: cover;
+    /* transition:transform 0.4s ease; */
+    cursor: pointer;
+}
+/* .items:hover img{
+    transform: scale(1.09);
+} */
+.item-prices{
+    display: flex;
+    gap: 10px;
+}
+.item-price-old{
+    text-decoration-line: line-through;
+    color: gray;
+}

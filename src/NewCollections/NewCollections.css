@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.NewCollections {
+    
+    margin: 60px auto;
+    padding: 40px;
+    gap: 100px;
+    height: auto;
+    width: 100%;
+    
+}
+.collections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

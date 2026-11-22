@@ -1,0 +1,32 @@
+.footerIcons img{
+    height: 20px;
+}
+.footer{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.footerLinks ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: rgb(61,60,60);
+
+}
+.footerIcons hr{
+    width: 90vw;
+    height: 1px;
+    background-color: rgb(61,60,60);
+
+}
+.copyrights p{
+    color:rgb(61,60,60);
+    font-size: 15px;
+    padding: 10px;
+}
+.footerIcons{
+    display: flex;
+    gap: 16px;
+}
